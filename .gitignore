@@ -1,0 +1,10 @@
+.vscode/
+
+.ipynb_checkpoints/
+**/__pycache__/**
+apex.egg-info/
+env/
+
+build/
+dist/
+logs/
